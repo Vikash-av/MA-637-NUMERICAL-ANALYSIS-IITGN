@@ -14,3 +14,4 @@ This repository contains a collection of programming exercises for the **Numeric
 Students are encouraged to use this repository as a reference for implementing and understanding numerical techniques.  
 
 ## **Repository Structure** 
+MA-637-Numerical-Analysis-IITGN/ │── README.md # Course details and instructions │── assignments/ # Your completed assignments │── src/ # Python implementations of numerical methods │ ├── root_finding/ # Bisection, Newton's method, Secant method │ ├── linear_algebra/ # Gaussian elimination, LU decomposition │ ├── interpolation/ # Lagrange and Newton interpolation │ ├── numerical_integration/ # Trapezoidal and Simpson's rule │ ├── differential_equations/ # Euler and Runge-Kutta methods │── examples/ # Example code demonstrating usage │── notebooks/ # Jupyter notebooks for visualization │── tests/ # Unit tests (optional) │── docs/ # Additional documentation (optional)
